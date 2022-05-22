@@ -63,3 +63,5 @@ optifine下的color.properties文件
 ##### 图形
 
 ## 终末之诗 汉化
+
+## 替换字体为开源字体[资源圆体](https://github.com/CyanoHao/Resource-Han-Rounded)##
